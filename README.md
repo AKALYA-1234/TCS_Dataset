@@ -47,4 +47,4 @@ Can be extended into a full analytics dashboard
 
 Dashboard:
 
-"C:\Users\DELL\Pictures\Screenshots\Screenshot 2025-08-28 073503.png"
+<img width="993" height="839" alt="Screenshot 2025-08-28 073503" src="https://github.com/user-attachments/assets/a28da63b-71ad-4f22-98c5-cdbe79a902c8" />
